@@ -191,30 +191,12 @@ sentences and lemmatizing the words to their original form - word2vec model was
 trained. Word embeddings were created on cleaned text data by using word2vec.
 Some functions of gensim word2vec:
 
-• most_similar(‘effect’)
-[('effects', 0.8488506078720093),
-('affects', 0.8269054293632507),
-('affect', 0.6979695558547974),
-('effectsthe', 0.6248028874397278),
-('incurr', 0.5831418037414551),
-('swtiching', 0.5422803163528442),
-('effectsno', 0.5152512788772583),
-('jehovah', 0.5115261077880859),
-('tabletsthere', 0.4891676902770996),
-('effests', 0.4779714345932007)]
+![Screenshot 2022-01-06 201332](https://user-images.githubusercontent.com/61709276/148475232-c689b9c5-9ca3-4ee1-82f3-42b6c8cf2cb0.png)
 
 
-• similar_by_word(‘doctor’)
-[('dr', 0.9641481637954712),
-('doc', 0.9321452379226685),
-('gp', 0.8473139405250549),
-('pcp', 0.8405479192733765),
-('md', 0.8237873315811157),
-('obgyn', 0.797286868095398),
-('physician', 0.7918844819068909),
-('gyno', 0.7623308300971985),
-('doctors', 0.7620154023170471),
-('gynecologist', 0.7492671608924866)]
+
+![Screenshot 2022-01-06 201357](https://user-images.githubusercontent.com/61709276/148475250-f9727602-0850-4bb8-aa17-a5c62f9b6ca5.png)
+
 
 
 After loading the word embeddings, the data was padded to have similar length and
