@@ -3,7 +3,7 @@
 ![Screenshot 2022-01-06 194456](https://user-images.githubusercontent.com/61709276/148473243-1975f05c-e269-4963-9cbc-9d19b2425eb1.png)
 
 
-DRUG RATING AND REVIEW RELATIONS
+## DRUG RATING AND REVIEW RELATIONS
 
 
 Using a drug and giving a review is a movement which effects drugs’ prescribing
